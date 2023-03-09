@@ -1,0 +1,49 @@
+p ,
+h1,
+h2{
+    color: blue;
+}
+
+p,
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+}
+p{
+    text-align: center;
+    font-size: italic;
+}
+h1{
+
+    color:#c20c24;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+
+}
+h3{
+    background-position: center;
+}
+p{
+    background-image: url(https://www.hypotheques-en-ligne.fr/wp-content/uploads/2020/11/service-recherche-reference-cadastrale.jpg);
+}
+body{
+    
+    
+
+    background-color: white;
+}
+h3,
+h4,
+h5,
+h6{
+    text-align: center;
+    justify-content: space-around;
+}
+.conteneur{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
